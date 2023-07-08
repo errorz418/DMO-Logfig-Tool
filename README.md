@@ -16,6 +16,10 @@ The Log Analyzer script supports several functionalities:
     - **Display Organization Token**: Retrieves and displays the 'OrganizationToken' value present in the file.
     - **Add or Update Supported Languages**: This feature can add or update the 'SupportedLanguages' based on user selections.
 
-## Getting Started
+## Installation
 
-To run the script, ensure that Python and Tkinter are installed on your system. Simply download the script, navigate to its location in your terminal, and execute it with Python.
+```console
+git clone https://github.com/errorz418/DMO-Logfig-Tool
+cd DMO-Logfig-Tool
+python3 main.py
+```
