@@ -1,6 +1,6 @@
 # Log Analyzer
 
-Simple Python script with a GUI. Used for analyzing Dragon Medical One log files and modifying the SoD.exe.config file. 
+A log file analyzer and configuration file editor for Dragon Medical One (or Dragon Professional Anywhere). Built in Python using Tkinter for the GUI.
 
 ## Features
 
